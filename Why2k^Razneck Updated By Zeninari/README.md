@@ -21,7 +21,7 @@ Update By Zeninari Added Items:
 
 VitaShell 2.02 Revisions - September 6th, 2024
 
-	- obviously updated the README.md 	file
+	- obviously updated the README.md file
 	- Updated preview images
 	- Updated context.png
 	- Updated context_more.png
