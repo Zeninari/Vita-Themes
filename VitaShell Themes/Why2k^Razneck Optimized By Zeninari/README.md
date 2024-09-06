@@ -1,4 +1,4 @@
-=# Why2k^ Originally by Razneck!
+# Why2k^ Originally by Razneck!
 
 Link To Old Repository: https://github.com/xy2i/vitashell-themes/tree/master/themes/Why2k%5ERazneck
 
@@ -23,11 +23,12 @@ VitaShell 2.02 Revisions - September 6th, 2024
 Quality Of Life:
 
 	- Added context_nobar.png (removes the bars from the UI)
-	- Added and renamed context.bar.png (default bar image, copy this when 	you want to swap back to the original and rename to context.png)
+	- Added and renamed context.bar.png (default context.png image, copy this when you want to swap back to the original and rename to context.png)
+	- Added and renamed context_more_default.png (default context_more.png image, copy this when you want to swap back to the original and rename to context_more.png)
 	- Added context_more_clippy.png
 	- Added context_more_noclippy.png (removes clippy from where i moved him due to no space)
-	- Added bg_audioplayer_98.png (alternate bg for media player, does require a text color swap!)
-	- Added bg_audioplayer_black.png (this is always here and is the default. is a separate file from bg_audioplayer.png despite being the 	same.)
+  	- Added and renamed bg_audioplayer_black.png (default bg_audioplayer.png image, copy this when you want to swap back to the original and rename to bg_audioplayer.png)
+	- Added bg_audioplayer_98.png (alternate bg for media player, does require a text color swap to something other than white!)
 	- renamed the old preview image files to preview#_old.jpg (didn't convert to png to keep the authenticity of the original files)
 	- added 2 more zip downloads one thats compressed and one thats fully compressed if your having issues.
  	- added the original PSD files i used to edit the textures in case someone wants to do somthing with them idk lol
