@@ -1,4 +1,4 @@
-[# Why2k^ Originally by Razneck!
+# Why2k^ Originally by Razneck!
 
 Link To Old Repository: https://github.com/xy2i/vitashell-themes/tree/master/themes/Why2k%5ERazneck
 
@@ -37,10 +37,9 @@ Quality Of Life:
   	- becasuse of how vitashell renders the images only the main menu type with the context_bar.png image will be valid. if its that much of an issue please use the context_nobar.png instead. if anyone knows how to make vitashell render multiple images based on what menu is currently active that would be very helpful!
 
 
-![Preview1](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png)
-![Preview2](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview2.png)
-![Preview3](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview3.png)
-![Preview4](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview4.png)
-![Preview5](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview5.png)
-![Preview6](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview6.png)
-](https://github.com/Zeninari/Vita-Themes/blob/c4827538122624e5abda6aae1835fded22e5c08a/VitaShell%20Themes/Why2k%5EZeninari/preview1.png)
+![Preview1](https://github.com/Zeninari/Vita-Themes/blob/c4827538122624e5abda6aae1835fded22e5c08a/VitaShell%20Themes/Why2k%5EZeninari/preview1.png)
+![Preview2](https://github.com/Zeninari/Vita-Themes/blob/c4827538122624e5abda6aae1835fded22e5c08a/VitaShell%20Themes/Why2k%5EZeninari/preview2.png)
+![Preview3](https://github.com/Zeninari/Vita-Themes/blob/d4c636816b348908ce6f8373137ec2bd3b4e0c1d/VitaShell%20Themes/Why2k%5EZeninari/preview3.png)
+![Preview4](https://github.com/Zeninari/Vita-Themes/blob/d4c636816b348908ce6f8373137ec2bd3b4e0c1d/VitaShell%20Themes/Why2k%5EZeninari/preview4.png)
+![Preview5](https://github.com/Zeninari/Vita-Themes/blob/d4c636816b348908ce6f8373137ec2bd3b4e0c1d/VitaShell%20Themes/Why2k%5EZeninari/preview5.png)
+![Preview6](https://github.com/Zeninari/Vita-Themes/blob/d4c636816b348908ce6f8373137ec2bd3b4e0c1d/VitaShell%20Themes/Why2k%5EZeninari/preview6.png)
