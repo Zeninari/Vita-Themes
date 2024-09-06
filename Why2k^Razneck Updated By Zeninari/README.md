@@ -10,7 +10,7 @@ VitaShell 1.43 Revisions - January 4, 2017
 	- context menus
 	- charge icon
 
-![Preview1](Why2k^Razneck Updated By Zeninari/preview1.png)
+![Preview1]([Why2k^Razneck Updated By Zeninari/preview1.png](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png))
 ![Preview2]([https://github.com/xy2iii/vitashell-themes/blob/master/themes/Why2k%5ERazneck/Preview2.png](https://github.com/Zeninari/Vita-Themes/blob/main/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview2.png))
 ![Preview3]([https://github.com/xy2iii/vitashell-themes/blob/master/themes/Why2k%5ERazneck/Preview3.png](https://github.com/Zeninari/Vita-Themes/blob/main/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview3.png))
 ![Preview4]([https://github.com/xy2iii/vitashell-themes/blob/master/themes/Why2k%5ERazneck/Preview4.png](https://github.com/Zeninari/Vita-Themes/blob/main/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview4.png))
