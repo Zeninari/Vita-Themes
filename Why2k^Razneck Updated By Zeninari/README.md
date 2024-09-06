@@ -30,6 +30,7 @@ Quality Of Life:
 	- Added bg_audioplayer_black.png (this is always here and is the default. is a separate file from bg_audioplayer.png despite being the 	same.)
 	- renamed the old preview image files to preview#_old.jpg (didn't convert to png to keep the authenticity of the original files)
 	- added 2 more zip downloads one thats compressed and one thats fully compressed if your having issues.
+ 	- added the original PSD files i used to edit the textures in case someone wants to do somthing with them idk lol
 
  Known Issues: 
 	 
