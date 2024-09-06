@@ -19,3 +19,4 @@ Directory For Vitashell Themes
   - Why2k^Razneck Updated By Zeninari (Missing A Way To Revert Back To The Default More Menu Aka context_more_default.png Which Im Now Calling It(Is Equipped In The Theme By Default))
   - Why2k^Razneck Optimized By Zeninari (Missing A Way To Revert Back To The Default More Menu Aka context_more_default.png Which Im Now Calling It(Is Equipped In The Theme By Default))
   - Why2k^Zeninari (Missing A Way To Revert Back To The Default More Menu Aka context_more_default.png Which Im Now Calling It(Is Equipped In The Theme By Default))
+  - updated the readme's of Why2k^ themes due to errors
