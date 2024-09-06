@@ -1,4 +1,4 @@
-# Why2k^ Originally by Razneck!
+[# Why2k^ Originally by Razneck!
 
 Link To Old Repository: https://github.com/xy2i/vitashell-themes/tree/master/themes/Why2k%5ERazneck
 
@@ -43,3 +43,4 @@ Quality Of Life:
 ![Preview4](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview4.png)
 ![Preview5](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview5.png)
 ![Preview6](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview6.png)
+](https://github.com/Zeninari/Vita-Themes/blob/c4827538122624e5abda6aae1835fded22e5c08a/VitaShell%20Themes/Why2k%5EZeninari/preview1.png)
