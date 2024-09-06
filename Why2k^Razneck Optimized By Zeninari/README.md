@@ -30,9 +30,11 @@ Quality Of Life:
 	- Added bg_audioplayer_black.png (this is always here and is the default. is a separate file from bg_audioplayer.png despite being the 	same.)
 	- renamed the old preview image files to preview#_old.jpg (didn't convert to png to keep the authenticity of the original files)
 	- added 2 more zip downloads one thats compressed and one thats fully compressed if your having issues.
+ 	- added the original PSD files i used to edit the textures in case someone wants to do somthing with them idk lol
 
  Known Issues: 
-	 - becasuse of how vitashell renders the images only the main menu type with the context_bar.png image will be valid. if its that much of an issue please use the context_nobar.png instead. if anyone knows how to make vitashell render multiple images based on what menu is currently active that would be very helpful!
+	 
+  	- becasuse of how vitashell renders the images only the main menu type with the context_bar.png image will be valid. if its that much of an issue please use the context_nobar.png instead. if anyone knows how to make vitashell render multiple images based on what menu is currently active that would be very helpful!
 
 
 ![Preview1](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png)
