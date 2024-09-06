@@ -32,7 +32,8 @@ Quality Of Life:
 	- added 2 more zip downloads one thats compressed and one thats fully compressed if your having issues.
 
  Known Issues: 
-	 - becasuse of how vitashell renders the images only the main menu type with the context_bar.png image will be valid. if its that much of an issue please use the context_nobar.png instead. if anyone knows how to make vitashell render multiple images based on what menu is currently active that would be very helpful!
+	 
+  	- becasuse of how vitashell renders the images only the main menu type with the context_bar.png image will be valid. if its that much of an issue please use the context_nobar.png instead. if anyone knows how to make vitashell render multiple images based on what menu is currently active that would be very helpful!
 
 
 ![Preview1](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png)
