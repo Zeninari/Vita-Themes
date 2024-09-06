@@ -1,4 +1,4 @@
-# Why2k Originally by Razneck!
+# Why2k^ Originally by Razneck!
 
 Link To Old Repository: https://github.com/xy2i/vitashell-themes/tree/master/themes/Why2k%5ERazneck
 
