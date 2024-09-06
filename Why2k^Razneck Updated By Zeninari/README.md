@@ -10,14 +10,7 @@ VitaShell 1.43 Revisions - January 4, 2017
 	- context menus
 	- charge icon
 
-![Preview1](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png)
-![Preview2](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview2.png)
-![Preview3](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview3.png)
-![Preview4](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview4.png)
-![Preview5](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview5.png)
-![Preview6](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview6.png)
-
-Update By Zeninari Added Items:
+ Update By Zeninari Added Items:
 
 VitaShell 2.02 Revisions - September 6th, 2024
 
@@ -37,3 +30,11 @@ Quality Of Life:
 	- Added bg_audioplayer_black.png (this is always here and is the default. is a separate file from bg_audioplayer.png despite being the 	same.)
 	- renamed the old preview image files to preview#_old.jpg (didn't convert to png to keep the authenticity of the original files)
 	- added 2 more zip downloads one thats compressed and one thats fully compressed if your having issues.
+
+
+![Preview1](https://github.com/Zeninari/Vita-Themes/blob/362c46d2a3dcab37c195951ad5879394aa2f34c4/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview1.png)
+![Preview2](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/Preview2.png)
+![Preview3](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview3.png)
+![Preview4](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview4.png)
+![Preview5](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview5.png)
+![Preview6](https://github.com/Zeninari/Vita-Themes/blob/e3619fdbbcd4fa733f70182a7ed9c33c7e345eb5/Why2k%5ERazneck%20Updated%20By%20Zeninari/preview6.png)
